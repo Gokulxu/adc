@@ -129,7 +129,7 @@ void main(void) {
 ---
 
 ## 📸 Circuit Diagram
- ![image](
+ ![image](https://github.com/manubraj/PIC-Microcontroller-ADC-to-LCD-Project/blob/10dad983a4114c9e01bdb7e876d9c36342d00e6b/ADC_.png)
 
 ## ⚠️ Notes
 
